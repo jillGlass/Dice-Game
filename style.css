@@ -140,6 +140,12 @@ i {
 .btn-new { top: 45px;}
 .btn-roll { top: 403px;}
 .btn-hold { top: 467px;}
+.total { 
+    text-align: center;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: lighter;
+}
 
 .dice {
     position: absolute;
