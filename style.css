@@ -140,11 +140,16 @@ i {
 .btn-new { top: 45px;}
 .btn-roll { top: 403px;}
 .btn-hold { top: 467px;}
+
 .total { 
     text-align: center;
-    padding: 5px;
+    padding: 10px;
     font-size: 16px;
     font-weight: lighter;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    width: 160px;
+    margin-top: 10px;;
+
 }
 
 .dice {
